@@ -1,3 +1,3 @@
-"Nama : (Nama Kamu)" 
-"NIM  : (NIM Kamu)" 
+"Nama : (Larashapsari)" 
+"NIM  : (1324066)" 
 "Latihan Git Programming" 
